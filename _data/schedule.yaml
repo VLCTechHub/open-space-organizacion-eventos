@@ -1,0 +1,7 @@
+- name: Llegada
+  day:  1
+  time: "18:30 - 18:40"
+
+- name: Cierre
+  day:  1
+  time: "20:15"
